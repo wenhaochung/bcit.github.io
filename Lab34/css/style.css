@@ -1,0 +1,88 @@
+/* Styles for the header */
+header {
+    background-color: green; /* Background color */
+    color: #fff; /* Text color */
+    text-align: center; /* Center-align text */
+    padding: 20px; /* Add padding to the header */
+}
+
+/* Styles for the profile picture */
+header img {
+    width: 150px; /* Set the image width */
+    height: 150px; /* Set the image height */
+    border-radius: 50%; /* Create a circular image */
+}
+
+/* Styles for the job title */
+header p {
+    font-weight: bold; /* Make the text bold */
+    font-size: 24px; /* Set the font size */
+    margin-top: 10px; /* Add space above the text */
+}
+
+/* Styles for the navigation links */
+nav ul {
+    list-style-type: none; /* Remove bullet points from the list */
+}
+
+nav li {
+    display: inline; /* Display list items horizontally */
+    margin-right: 20px; /* Add space between list items */
+}
+
+/* Style links in the navigation */
+nav a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #fff; /* Link text color */
+    font-weight: bold; /* Make link text bold */
+    font-size: 18px; /* Set link text size */
+}
+
+/* Change link color on hover */
+nav a:hover {
+    color: greenyellow; /* Hover color */
+}
+
+.jo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: darkcyan;
+    
+
+}
+
+#education{
+    font-family: sans-serif;
+    font-weight: 300;
+    color: darkcyan;  
+}
+
+#experience{
+    font-family: sans-serif;
+    font-weight: 300;
+    color: darkcyan;
+     
+}
+
+a {
+    background-color: darkcyan;
+    
+    padding: 3px;
+    margin: 2px;
+}
+
+.joo {
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: green; /* Background color */
+    color: #fff; /* Text color */
+    text-align:center;  
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
